@@ -16,3 +16,17 @@
     background: #F4FAFD;
 
 }
+
+@media (max-width:990px) {
+    .picture {
+        display: none;
+    }
+
+    .size {
+        height: 260px;
+    }
+
+    .company {
+        display: none;
+    }
+}
